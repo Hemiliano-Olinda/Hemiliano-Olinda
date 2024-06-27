@@ -52,5 +52,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Hemiliano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-hemiliano@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemiliano@gmail.com)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-hemiliano@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemiliano@gmail.com)](mailto:hemiliano@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
