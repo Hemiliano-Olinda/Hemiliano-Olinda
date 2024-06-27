@@ -16,7 +16,7 @@ Sou policial militar e apaixonado por programação, em 2009 me formei em ciênc
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://camo.githubusercontent.com/3292858a23a6d7402fa8def880116d31a9d3ec473fe90f0816fbefd55a90684a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333535332e706e67" alt="GitHub"/></code>
 
 ---
 
