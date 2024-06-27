@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
+- 🎓 Formado em Ciência da Computação pela Faculdade UNIGRANDE.
 - 💼 Trabalhando como Policial Militar do Estado do Ceara.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🌱 Aprendendo mais sobre Git & GitHub e Ruby.
 
 ## Minhas Skills
 
@@ -51,6 +51,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemiliano-olinda-92a6a0240/)]
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
